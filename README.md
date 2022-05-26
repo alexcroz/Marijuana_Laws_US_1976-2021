@@ -1,6 +1,6 @@
 # Marijuana_Laws_US_1976-2021
 A dataset with an overview of marijuana laws in the United States from 1976 to 2021. 
-THe dataset is available as a .RDS, .CSV or .XLSX file.
+The dataset is available as a .RDS, .csv or .xlsx file.
 
 This dataset was created in for my master's thesis (spring 2022) in comparative politics at the University of Bergen.
 The dataset features 13 variables and 931 observations.
